@@ -1,2 +1,2 @@
-# HBD1
+# Weboo
 + HB Academy Day 1
